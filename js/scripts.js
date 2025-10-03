@@ -5,3 +5,5 @@ hamburgerElement.addEventListener('click', () => {
     hamburgerElement.classList.toggle("open");
     navElements.classList.toggle("open");
 });
+
+hamburgerElement.textContent="";

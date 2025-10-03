@@ -452,7 +452,7 @@ main p {
 footer {
   font-size: 0.85rem;
   padding: 1rem 10px;
-  color: #ccc;
+  color: rgb(247, 240, 230);
 }
 footer ion-icon {
   margin-right: 0.5rem;
