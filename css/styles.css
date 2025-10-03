@@ -435,7 +435,7 @@ main p {
 .allCards section a {
   display: block;
   background-color: rgb(92, 137, 147);
-  color: rgb(247, 240, 230);
+  color: white;
   width: 50%;
   border-radius: 4px;
   margin: 1rem auto;
