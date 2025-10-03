@@ -1,0 +1,20 @@
+/* NAVIGATION STUFF GOES HERE  */
+div.allCards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: $gutter;
+    section {
+        flex-basis: calc(50% - ($gutter/2));
+    }
+}
+
+/* FOOTER STUFF GOES HERE */
+footer div {
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+
+footer.social {
+    flex-wrap: wrap;
+    margin: auto;
+}
