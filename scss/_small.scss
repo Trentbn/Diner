@@ -110,7 +110,7 @@ main {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 10px rgb(179, 179, 179);
-    background-color: rgb(39, 39, 39);
+    background-color: $accentColor;
 
     h2, p {
         margin: 0;
@@ -136,14 +136,15 @@ main {
 
     a {
         display: block;
-        background-color: $accentColor;
-        color: white;
+        background-color: $secondaryColor;
+        color: $primaryColor;
         width: 50%;
         border-radius:4px;
         margin: 1rem auto;
         padding: .75rem;
         text-align: center;
         text-decoration: none;
+        font-weight: 500;
     }
   }
 } // End of allCards

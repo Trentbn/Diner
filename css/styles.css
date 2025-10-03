@@ -434,14 +434,15 @@ main p {
 }
 .allCards section a {
   display: block;
-  background-color: rgb(92, 137, 147);
-  color: white;
+  background-color: rgb(247, 240, 230);
+  color: rgb(71, 105, 113);
   width: 50%;
   border-radius: 4px;
   margin: 1rem auto;
   padding: 0.75rem;
   text-align: center;
   text-decoration: none;
+  font-weight: 500;
 }
 
 /* --------------------------- FOOTER --------------------------- */
