@@ -477,7 +477,7 @@ footer p.legal {
   line-height: 150%;
 }
 footer a {
-  color: #ccc;
+  color: rgb(247, 240, 230);
 }
 
 @media only screen and (min-width: 35rem) {
