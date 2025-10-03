@@ -317,7 +317,7 @@ body {
   font-family: "Cormorant Garamond", serif;
   font-weight: 300;
   min-width: 320px;
-  background-color: rgb(246, 240, 231);
+  background-color: rgb(247, 240, 230);
 }
 
 /* --------------------------- HEADER --------------------------- */
@@ -337,12 +337,12 @@ header span {
   font-size: 1.6rem;
   font-weight: 300;
   font-family: "Playfair Display", serif;
-  color: rgb(89, 132, 142);
+  color: rgb(71, 105, 113);
 }
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
 #navWrapper {
-  background-color: rgb(89, 132, 142);
+  background-color: rgb(71, 105, 113);
 }
 
 button::before {
@@ -375,10 +375,10 @@ nav > ul li > a {
 }
 
 li.active {
-  background-color: rgb(246, 240, 231);
+  background-color: rgb(247, 240, 230);
 }
 li.active a {
-  color: rgb(89, 132, 142);
+  color: rgb(71, 105, 113);
 }
 
 ul.menuLinks.open {
@@ -391,12 +391,12 @@ button.open::before {
 
 /* --------------------------- MAIN --------------------------- */
 main {
-  background-color: rgb(246, 240, 231);
+  background-color: rgb(247, 240, 230);
 }
 main h1 {
   padding: 1rem 10px 0.5rem 10px;
   font-size: 1.5rem;
-  color: rgb(89, 132, 142);
+  color: rgb(71, 105, 113);
   font-weight: 300;
   font-family: "Playfair Display", serif;
 }
@@ -418,7 +418,7 @@ main p {
 .allCards section h2, .allCards section p {
   margin: 0;
   padding: 1rem 10px;
-  color: rgb(246, 240, 231);
+  color: rgb(247, 240, 230);
 }
 .allCards section h2 {
   font-size: 1.5rem;
@@ -434,8 +434,8 @@ main p {
 }
 .allCards section a {
   display: block;
-  background-color: rgb(89, 132, 142);
-  color: rgb(246, 240, 231);
+  background-color: rgb(92, 137, 147);
+  color: rgb(247, 240, 230);
   width: 50%;
   border-radius: 4px;
   margin: 1rem auto;
@@ -446,7 +446,7 @@ main p {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-  background-color: rgb(89, 132, 142);
+  background-color: rgb(71, 105, 113);
 }
 
 footer {
@@ -517,8 +517,8 @@ footer a {
     justify-content: flex-end;
   }
   ul.menuLinks a:hover {
-    background-color: rgb(246, 240, 231);
-    color: rgb(89, 132, 142);
+    background-color: rgb(247, 240, 230);
+    color: rgb(71, 105, 113);
   }
   div.allCards section {
     flex-basis: calc(33.3333% - 6.6666666667px);
